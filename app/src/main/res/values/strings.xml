@@ -8,7 +8,7 @@
     <string name="main.button.clear">Borrar recientes</string>
     <string name="main.notice.clear">Elementos recientes ha quedado vacío</string>
     <string name="main.menu.action.about">Acerca de</string>
-
+    <string name="main.menu.action.clear">Limpiar</string>
     <string name="global.message.tip">Propina %,.1f</string>
     <string name="tipdetail.message.bill">Total %,.1f</string>
 
